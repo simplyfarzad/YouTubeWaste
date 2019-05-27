@@ -2,7 +2,8 @@ YouTube Waste
 =============
 *Inspired by Wasted Days
 and
-`YouTube Watched History Analyser <https://python-forum.io/Thread-Youtube-Watched-History-Analyzer>`_ *
+`YouTube Watched History Analyser <https://python-forum.io/Thread-Youtube-Watched-History-Analyzer>`_
+*
 
 This project calculates the hours one wasted watching YouTube videos.
 
