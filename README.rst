@@ -1,4 +1,5 @@
-**YouTube Waste**
+YouTube Waste
+=============
 
 Inspired by wasted days
 
