@@ -21,3 +21,5 @@ Things to consider:
 1. YouTube API does not allow more than 50 ids in one request.
 
 2. [YouTube Data API](https://developers.google.com/youtube/v3/docs/videos/list) page was a great help, specially **Try this API** part.
+
+3. Google does not allow more than 10,000 queries per day (Quotas). Keep it in mind!
