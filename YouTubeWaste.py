@@ -9,8 +9,6 @@ import matplotlib.pyplot as plt
 from googleapiclient.discovery import build
 import pandas as pd
 import isodate
-# import time
-# import numpy as np
 
 # Initialization
 file_history = 'C:/Users/Farzad/Desktop/Takeout/YouTube/history/watch-history.json'
