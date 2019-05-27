@@ -14,4 +14,4 @@ In order to run this project you need to:
 
 * Go to `Google API Library <https://console.developers.google.com/apis/library>`_ and enable **YouTube Data API v3**.
 
-* Install YouTube API module `<$ python3 -m pip install google-api-python-client>`
+* Install YouTube API module `$ python3 -m pip install google-api-python-client`
