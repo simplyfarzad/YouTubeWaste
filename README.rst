@@ -1,9 +1,8 @@
 YouTube Waste
 =============
-*Inspired by Wasted Days
+Inspired by Wasted Days
 and
 `YouTube Watched History Analyser <https://python-forum.io/Thread-Youtube-Watched-History-Analyzer>`_
-*
 
 This project calculates the hours one wasted watching YouTube videos.
 
@@ -15,5 +14,4 @@ In order to run this project you need to:
 
 * Go to `Google API Library <https://console.developers.google.com/apis/library>`_ and enable **YouTube Data API v3**.
 
-
-`1000 Genomes <http://www.1000genomes.org/data>`_
+* Install YouTube API module `<$ python3 -m pip install google-api-python-client>`
