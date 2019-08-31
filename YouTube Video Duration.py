@@ -14,7 +14,7 @@ import os
 import googleapiclient.discovery
 import googleapiclient.errors
 
-API_key = "AIzaSyA2yeYt8-ibvE-OXHAnKDqJThfT9lCUTTE"
+API_key = "-"
 
 # scopes = ["https://www.googleapis.com/auth/youtube.readonly"]
 
